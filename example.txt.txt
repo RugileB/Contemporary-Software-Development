@@ -1,0 +1,7 @@
+Add some text to the file.
+Step 4: Commit and Push Changes
+In the terminal, navigate to the repository folder.
+Run the following commands:
+git add .
+git commit -m “Added example.txt”
+git push
